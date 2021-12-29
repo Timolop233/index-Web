@@ -74,8 +74,8 @@ footer:
   since: 2018
   # Customize the server domain name ICP
   ICP:
-    enable: false
-    code: 
+    enable: ture
+    code: 吉ICP备2021000357号
 
 # Gitalk
 # https://github.com/gitalk/gitalk
