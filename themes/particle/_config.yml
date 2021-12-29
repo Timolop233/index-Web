@@ -1,0 +1,92 @@
+# Theme Github link: https://github.com/korilin/hexo-theme-particle
+# Developer: korilin
+
+# html lang
+language: zh
+
+# avatar image url
+head_img: https://i.loli.net/2021/07/15/RQ9Wsmy2Tbtkj6g.jpg 
+
+# home page head info block
+head_block_enable: true
+
+
+
+# home page head background style.
+# If you use a picture as background, you must use the css background-image attribute instead of the background attribute.
+# Use image as background ==> home_background: "background-image:url('../home.jpg')"
+# Use a color as background ==> home_background: "background: balck"
+home_background: "background-image:url('https://s2.loli.net/2021/12/30/Ji5hyWZ6mzvsQNI.jpg')"
+
+# Particle theme icon is adopts the ant design vue icons
+# Link：https://www.antdv.com/components/icon-cn/
+
+# main menu navigation
+menu:
+  home:
+    icon:
+      name: home
+      theme: filled
+    src: /
+  Blog:
+    icon:
+      name: compass
+      theme: filled
+    src: https://blog.daecnlt.com
+  Github:
+    icon:
+      name: github
+      theme: filled
+    src: https://github.com/Timolop233
+  Bilibili:
+    icon:
+      name: video-camera
+      theme: filled
+    src: https://space.bilibili.com/16861021
+
+# side info card
+card:
+  enable: true
+  description: ["鸽了"]
+  icon_links:
+    github:
+      icon:
+        type: antd-icon
+        name: github
+        theme: filled
+        src:
+      link: https://github.com/korilin
+
+    # Telegram:
+    #   icon:
+    #     type:
+    #     name:
+    #     theme:
+    #     src:
+    #   link:
+    
+  friend_links:
+    Blog博客: https://blog.daecnlt.com
+    Github: https://github.com/Timolop233
+
+# footer info
+footer:
+  since: 2018
+  # Customize the server domain name ICP
+  ICP:
+    enable: false
+    code: 
+
+# Gitalk
+# https://github.com/gitalk/gitalk
+gitalk:
+  enable: true
+  clientID: # GitHub Application Client ID
+  clientSecret: # GitHub Application Client Secret
+  repo: hexo-theme-particle # The name of repository of store comments
+  owner: korilin # GitHub repo owner
+  admin: korilin # GitHub repo owner and collaborators, only these guys can initialize github issues
+  language: en # en, zh-CN, zh-TW, es-ES, fr, ru, de, pl and ko are currently available.
+
+# theme style: full / night / maiden, defalut: full
+style: maiden
