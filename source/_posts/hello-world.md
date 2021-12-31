@@ -28,6 +28,6 @@ title: This is my introduction
     <td><a href="https://space.bilibili.com/122366604"><img src="https://s2.loli.net/2021/12/30/Uc1l4uvBYhDAXsz.jpg" border=0 width=100px height=100px><div>泡泡里的咸鱼</div></a></td>
     <br/>
     <td><a href="https://space.bilibili.com/178796361"><img src="https://s2.loli.net/2021/12/30/GUFcQmgabPJxD5Z.jpg" border=0 width=100px height=100px><div>孤星随风</div></a></td>
-    <td><a href="/"><img src="https://s2.loli.net/2021/12/30/EODHzRlM41InfSU.jpg" border=0 width=100px height=100px><div>kino希诺</div></a></td>
+    <td><a href="https://space.bilibili.com/350950373"><img src="https://s2.loli.net/2021/12/30/EODHzRlM41InfSU.jpg" border=0 width=100px height=100px><div>kino希诺</div></a></td>
     <td><a href="https://space.bilibili.com/159110886"><img src="https://s2.loli.net/2021/12/30/GevWQI985osJtxD.jpg" border=0 width=100px height=100px><div>安逸安逸安</div></a></td>
 </table>
