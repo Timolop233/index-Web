@@ -38,11 +38,11 @@ menu:
       name: github
       theme: filled
     src: https://github.com/Timolop233
-  Bilibili:
+  REC:
     icon:
       name: video-camera
       theme: filled
-    src: https://space.bilibili.com/16861021
+    src: https://vupdl.daecnlt.com/
 
 # side info card
 card:
@@ -55,7 +55,7 @@ card:
         name: github
         theme: filled
         src:
-      link: https://github.com/korilin
+      link: https://github.com/Timolop233
 
     # Telegram:
     #   icon:
