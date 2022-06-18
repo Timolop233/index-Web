@@ -38,12 +38,17 @@ menu:
       name: github
       theme: filled
     src: https://github.com/Timolop233
-  REC:
+  CloudDrive:
     icon:
-      name: video-camera
+      name: database-outlined
       theme: filled
-    src: https://vupdl.daecnlt.com/
-
+    src: https://pan.daecnlt.com/
+  ServerState:
+    icon:
+      name: dashboard-outlined
+      theme: filled
+    src: https://node.daecnlt.com/
+  
 # side info card
 card:
   enable: true
